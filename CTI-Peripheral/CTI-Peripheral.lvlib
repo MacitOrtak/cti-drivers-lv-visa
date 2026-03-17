@@ -35,7 +35,7 @@
 	</Item>
 	<Item Name="Grove RGB Matrix" Type="Folder">
 		<Item Name="Base" Type="Folder">
-			<Item Name="RGB LED Matrix.lvclass" Type="LVClass" URL="../RGB LED Matrix/RGB LED Matrix.lvclass"/>
+			<Item Name="RGB LED Matrix.lvclass" Type="LVClass" URL="../RGB LED Matrix/Base/RGB LED Matrix.lvclass"/>
 		</Item>
 		<Item Name="Grove 2 RGB LED Matrix.lvclass" Type="LVClass" URL="../RGB LED Matrix/Grove 2 RGB LED Matrix/Grove 2 RGB LED Matrix.lvclass"/>
 	</Item>
